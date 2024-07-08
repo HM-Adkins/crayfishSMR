@@ -4,9 +4,9 @@
 cff-version: 1.2.0
 title: crayfishSMR
 message: >-
-  If you use this software, please cite it using the
+  If you use this script, please cite it using the
   metadata from this file.
-type: software
+type: script
 authors:
   - given-names: Hannah
     family-names: Adkins
